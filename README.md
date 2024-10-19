@@ -1,2 +1,2 @@
 # Contact-project-
-Simple consol app by C++
+Simple console app C++ project
